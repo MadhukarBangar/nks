@@ -1,1 +1,1 @@
-# nks
+# nks deployment on VMware
